@@ -77,9 +77,7 @@ Recommendation for a movie: Lord of the Rings: The Return of the King, The (2003
 
 ✅ **Collaborative Filtering**
 
-❌ Content-Based Filtering (Not used here)
-
----
+--=
 
 ## 📌 Future Improvements
 
