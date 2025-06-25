@@ -14,7 +14,7 @@ This makes it a **collaborative filtering** system.
 
 ## 📂 Dataset
 
-We use two CSV files from the [MovieLens](https://grouplens.org/datasets/movielens/) dataset:
+We use two CSV files from the Kaggle datasets:
 
 - `movies.csv`: Contains movie `movieId`, `title`, and `genres`.
 - `ratings.csv`: Contains user ratings with columns `userId`, `movieId`, `rating`, and `timestamp`.
