@@ -71,11 +71,6 @@ Recommendation for a movie: Lord of the Rings: The Return of the King, The (2003
 ...
 ```
 
----
-
-## 🏷️ Type of Recommendation
-
-✅ **Collaborative Filtering**
 
 --=
 
