@@ -8,7 +8,7 @@ This project implements a **Collaborative Filtering** based movie recommendation
 
 The goal of this project is to recommend movies that are similar to a selected movie, based on user behavior. It does **not** use genres, descriptions, or other movie metadata—instead, it relies entirely on how users rated movies.
 
-This makes it a **collaborative filtering** system.
+This makes it a **Content-Based Recommendation System** .
 
 ---
 
